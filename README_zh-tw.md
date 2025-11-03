@@ -55,7 +55,7 @@
 
 ---
 
-<h3 align="center">💬 聯絡我</h3>
+<h3 align="center">🔎 找到我</h3>
 
 <p align="center">
   <a href="https://discord.com/users/928603023805132841"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
