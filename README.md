@@ -1,4 +1,9 @@
 <!-- KAMI0121 Cyberpunk README -->
+<div align="right">
+  <a title="English" href="README.md"><img src="https://img.shields.io/badge/-English-A31F34?style=for-the-badge" alt="English" /></a>
+  <a title="繁體中文" href="README_zh-tw.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="繁體中文"></a>
+  <a title="简体中文" href="README_zh-cn.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=06D9F7&center=true&vCenter=true&width=600&lines=⚡+welcome+to+the+system+⚡;I'm+kami;PYTHON+%7C+NODE.JS+%7C+CLOUDFLARE+%7C+DISCORD+BOT" alt="Typing Animation" />
