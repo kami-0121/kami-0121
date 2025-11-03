@@ -5,9 +5,12 @@
   <a title="简体中文" href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文"></a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=06D9F7&center=true&vCenter=true&width=600&lines=⚡+欢迎进入系统+⚡;我是+KAMI;PYTHON+%7C+NODE.JS+%7C+CLOUDFLARE+%7C+DISCORD+BOT" alt="Typing Animation" />
-</h1>
+<div align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=1800&pause=700&color=00E0FF&multiline=true&width=600&height=220&lines=[00:00:01]+kami@system:~$+login;[00:00:02]+Access+granted...;[00:00:03]+Booting+modules...;[00:00:04]+>>>+Initializing+Python;[00:00:05]+>>>+Starting+Node.js;[00:00:06]+>>>+Connecting+to+Cloudflare;[00:00:07]+>>>+Activating+Discord+Bot;[00:00:08]+System+Ready+⚡;[00:00:09]+>>>+Awaiting+commands..." alt="Terminal Boot Animation" />
+
+</div>
+
 
 ---
 
@@ -64,6 +67,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=06D9F7&center=true&vCenter=true&width=500&lines=系统启动中...;初始化+KAMI+核心模块...;准备执行+⚡" alt="Footer animation" />
-</p>
+
