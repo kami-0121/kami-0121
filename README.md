@@ -67,6 +67,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=06D9F7&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE...;INITIALIZING+PROJECT+KAMI+CORE...;READY+FOR+EXECUTION+⚡" alt="Footer animation" />
-</p>
+
