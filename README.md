@@ -38,7 +38,12 @@
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cyberpunk.gif" width="400" alt="cyberpunk animation"/>
 </p>
 
-:Neko_cat_woah: TECH OTAKUS SAVE THE WORLD
+<div align="center">
+
+![](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44) **TECH OTAKUS SAVE THE WORLD** ![](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)
+
+</div>
+
 
 ---
 
