@@ -39,20 +39,20 @@
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
-      </td>
-      <td>
-        <h2 style="margin: 0; font-style: italic;">TECH OTAKUS SAVE THE WORLD</h2>
-      </td>
-      <td>
-        <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
-      </td>
-    </tr>
-  </table>
+
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" /> 
+    <b>TECH OTAKUS SAVE THE WORLD</b>
+    <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
+  </summary>
+  
+  ### 歡迎來到這個專案！
+  
+</details>
+
 </div>
+
 
 
 
