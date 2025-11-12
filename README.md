@@ -18,9 +18,12 @@
 </div>
 <div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=1800&pause=700&color=00E0FF&multiline=true&width=600&height=220&lines=[00:00:01]+kami@system:~$+login;[00:00:02]+Access+granted...;[00:00:03]+Booting+modules...;[00:00:04]+>>>+Initializing+Python;[00:00:05]+>>>+Starting+Node.js;[00:00:06]+>>>+Connecting+to+Cloudflare;[00:00:07]+>>>+Activating+Discord+Bot;[00:00:08]+System+Ready+⚡;[00:00:09]+>>>+Awaiting+commands..." alt="Terminal Boot Animation" />
-
+<div align="center" style="border: 2px solid #FFB6C1; border-radius: 10px; padding: 15px; margin: 20px 0;">
+  <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
+  <h2 style="margin: 10px 0; font-style: italic; color: #FF69B4;">TECH OTAKUS SAVE THE WORLD</h2>
+  <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
 </div>
+
 
 
 ---
