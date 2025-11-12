@@ -41,15 +41,12 @@
 <div align="center">
 
 <details>
-  <summary>
-    <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" /> 
-    <b>TECH OTAKUS SAVE THE WORLD</b>
-    <img src="https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44" alt="emoji" />
-  </summary>
+  <summary>⚠️ 點擊展開</summary>
   
-  ### 歡迎來到這個專案！
+  ***:Neko_cat_woah: TECH OTAKUS SAVE THE WORLD***
   
 </details>
+
 
 </div>
 
