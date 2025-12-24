@@ -15,11 +15,7 @@
 </table>
 
 
-<div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=1800&pause=700&color=00E0FF&multiline=true&width=600&height=220&lines=[00:00:01]+kami@system:~$+登入中...;[00:00:02]+授權成功...;[00:00:03]+正在啟動模組...;[00:00:04]+>>>+初始化+Python;[00:00:05]+>>>+啟動+Node.js;[00:00:06]+>>>+連線+Cloudflare;[00:00:07]+>>>+啟用+Discord+Bot;[00:00:08]+系統已啟動+⚡;[00:00:09]+>>>+等待指令中..." alt="終端機動畫" />
-
-</div>
 
 
 ---
