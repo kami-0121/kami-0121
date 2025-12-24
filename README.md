@@ -11,11 +11,7 @@
 
 
 
-<div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=1800&pause=700&color=00E0FF&multiline=true&width=600&height=220&lines=[00:00:01]+kami@system:~$+login;[00:00:02]+Access+granted...;[00:00:03]+Booting+modules...;[00:00:04]+>>>+Initializing+Python;[00:00:05]+>>>+Starting+Node.js;[00:00:06]+>>>+Connecting+to+Cloudflare;[00:00:07]+>>>+Activating+Discord+Bot;[00:00:08]+System+Ready+⚡;[00:00:09]+>>>+Awaiting+commands..." alt="Terminal Boot Animation" />
-
-</div>
 
 
 
