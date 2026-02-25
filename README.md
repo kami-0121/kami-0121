@@ -7,16 +7,6 @@
     <a href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文" /></a>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
 ---
 
 <h3 align="center">👾 About Me</h3>
@@ -27,16 +17,6 @@
     Exploring the edge between humans and technology.」
   </em>
 </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cyberpunk.gif" width="400" alt="cyberpunk animation"/>
-</p>
-
-<div align="center">
-
-# ![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)  ***TECH OTAKUS SAVE THE WORLD*** ![emoji](https://cdn.discordapp.com/emojis/1324876576281858090.webp?size=44)
-
-</div> 
 
 ---
 
