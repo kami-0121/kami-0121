@@ -41,10 +41,7 @@
   🔹 Exploring cloud-based performance monitoring and task automation
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kami-0121&show_icons=true&theme=radical&title_color=06D9F7&icon_color=06D9F7&bg_color=0A0F1C&text_color=E6E6E6" alt="Kami's Stats" width="49%"/>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kami-0121&theme=radical&hide_border=true&background=0A0F1C&ring=06D9F7&fire=06D9F7&currStreakLabel=06D9F7" alt="Kami's Streak" width="49%"/>
 </div>
 
@@ -57,6 +54,5 @@
   <a href="https://github.com/kami-0121"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
----
 
 
