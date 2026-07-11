@@ -1,23 +1,23 @@
 name: Metrics
+
 on:
   schedule: [{cron: "0 */4 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-22.04
     timeout-minutes: 30
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
-      - uses: lyc8503/my-readme-metrics@master
+      - uses: lowlighter/metrics@3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
           base_indepth: true
           repositories_forks: true
-          # debug: true
 
           plugin_languages: true
           plugin_languages_indepth: true
@@ -25,30 +25,16 @@ jobs:
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_details: lines
-          plugin_languages_skipped: |
-            cpython
-            kernel_xiaomi_chopin_android_S
-            android_kernel_chopin_android_T
-            kernel_xiaomi_chopin
-            kernel-builder-chopin
-            blog.lyc8503.net-PersonalBlog
-            nju-ics-2020-spring-nemu
-            AncientCode
-            OpenCC
-          plugin_languages_indepth_custom: |
-            NJU-uFFFD/DDLChecker
 
           plugin_isocalendar: true
 
-          plugin_reactions: true
+          plugin_activity: true
+          plugin_activity_limit: 5
 
-          # 16personalities data is hardcoded in lyc8503/my-readme-metrics, i know this is very stupid but...
-          plugin_16personalities: true
-
-          plugin_rss: true
-          plugin_rss_source: https://blog.lyc8503.net/atom.xml
-          plugin_rss_limit: 4
+          plugin_achievements: true
+          plugin_achievements_display: compact
 
           config_display: large
+
           output_action: gist
-          committer_gist: 6603b256c1e5bf1d0452c57200526d05
+          committer_gist: dc04e4cbe43458f0c44436bf851672ee
