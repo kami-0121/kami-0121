@@ -22,11 +22,14 @@ Developer focused on automation, AI integration, and system engineering.
 
 ---
 
-**About**
+**What I'm Building**
 
-Building smarter Discord bots powered by Cloudflare and AI.  
-Designing automated systems that merge front-end & back-end intelligence.  
-Exploring cloud-based performance monitoring and task automation.
+- `[private]` **@Doc** — An AI-native semantic document notation designed for humans, AI, and compilers. *(coming soon)*
+- Building smarter Discord bots powered by Cloudflare and AI
+- Designing automated systems that merge front-end & back-end intelligence
+- Exploring cloud-based performance monitoring and task automation
+
+---
 
 **Stack**
 
@@ -35,6 +38,8 @@ Exploring cloud-based performance monitoring and task automation.
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://www.javascript.com)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
 [![Discord.js](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)
+
+---
 
 **Connect**
 
