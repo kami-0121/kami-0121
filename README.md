@@ -1,58 +1,48 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <div>
-    <a href="https://www.buymeacoffee.com/kami_rzm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" /></a>
-    <a href="README.md"><img src="https://img.shields.io/badge/-English-A31F34?style=for-the-badge" alt="English" /></a>
-    <a href="README_zh-tw.md"><img src="https://img.shields.io/badge/-繁體中文-7D5FFF?style=for-the-badge" alt="繁體中文" /></a>
-    <a href="README_zh-cn.md"><img src="https://img.shields.io/badge/-简体中文-545759?style=for-the-badge" alt="简体中文" /></a>
-  </div>
+<div align="center">
+
+# kami-0121
+
+Developer focused on automation, AI integration, and system engineering.
+
+![Visitors](https://komarev.com/ghpvc/?username=kami-0121&style=flat-square&color=lightgrey&label=visitors)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/kami-0121?style=flat-square&color=lightgrey)](https://github.com/kami-0121)
+&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kami_rzm)
+
+&nbsp;
+
+[English](README.md) &nbsp;·&nbsp; [繁體中文](README_zh-tw.md) &nbsp;·&nbsp; [简体中文](README_zh-cn.md)
+
 </div>
 
 ---
 
-<h3 align="center">👾 About Me</h3>
-
-<p align="center">
-  <em>
-    「Developer focused on automation, AI integration, and system engineering.<br>
-    Exploring the edge between humans and technology.」
-  </em>
-</p>
+<img src="https://gist.githubusercontent.com/kami-0121/dc04e4cbe43458f0c44436bf851672ee/raw/github-metrics.svg" alt="GitHub Metrics" />
 
 ---
 
-<h3 align="center">⚙️ Technologies I Use</h3>
+**About**
 
-<p align="center">
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="50" /></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="50" /></a>
-  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" width="50" /></a>
-  <a href="https://discord.js.org"><img src="https://skillicons.dev/icons?i=discordjs" width="50" /></a>
-  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" width="50" /></a>
-</p>
+Building smarter Discord bots powered by Cloudflare and AI.  
+Designing automated systems that merge front-end & back-end intelligence.  
+Exploring cloud-based performance monitoring and task automation.
+
+**Stack**
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://www.javascript.com)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
+[![Discord.js](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)
+
+**Connect**
+
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/928603023805132841)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kami-0121)
 
 ---
 
-<h3 align="center">🧠 Current Focus</h3>
-
-<p align="center">
-  🔹 Building smarter Discord bots powered by Cloudflare and AI<br>
-  🔹 Designing automated systems that merge front-end & back-end intelligence<br>
-  🔹 Exploring cloud-based performance monitoring and task automation
-</p>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kami-0121&theme=radical&hide_border=true&background=0A0F1C&ring=06D9F7&fire=06D9F7&currStreakLabel=06D9F7" alt="Kami's Streak" width="49%"/>
+<div align="center">
+<sub>Last updated automatically · kami-0121</sub>
 </div>
-
----
-
-<h3 align="center">💬 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/928603023805132841"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-  <a href="https://github.com/kami-0121"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-</p>
-
-
-
