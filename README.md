@@ -22,12 +22,17 @@ Developer focused on automation, AI integration, and system engineering.
 
 ---
 
-**What I'm Building**
+**About**
 
-- `[private]` **@Doc** — An AI-native semantic document notation designed for humans, AI, and compilers. *(coming soon)*
-- Building smarter Discord bots powered by Cloudflare and AI
-- Designing automated systems that merge front-end & back-end intelligence
-- Exploring cloud-based performance monitoring and task automation
+- ☁️ Living in the Cloudflare ecosystem — Workers, D1, R2, KV, the whole stack
+- 🤖 Building automation systems and Discord bots
+- 🧠 Learning AI — agents, LLM integration, the usual rabbit hole
+- 📦 One private project cooking at [wedc.cc](https://wedc.cc) — not ready yet
+- 🎮 APEX / Minecraft when the deploy is running
+- 🌙 Most productive after midnight
+- 💻 The kind of person who writes code for fun
+
+![Phone Fund](https://kami-status-api.sakuna.workers.dev/schedule?url=https://kami-status-api.sakuna.workers.dev/projects/badge/1775150538508)
 
 ---
 
