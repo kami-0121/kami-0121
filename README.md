@@ -38,7 +38,7 @@ Developer focused on automation, AI integration, and system engineering.
 <b>Currently Working Towards</b>
 <br><br>
 <img src="https://kami-status-api.sakuna.workers.dev/schedule?url=https://kami-status-api.sakuna.workers.dev/projects/badge/1775150538508" alt="Phone Fund" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <img src="https://kami-status-api.sakuna.workers.dev/schedule?url=https://kami-status-api.sakuna.workers.dev/projects/badge/1783765854204" alt="AtDoc" />
 <br>
 <sub>Help me hit 100% → <a href="https://www.buymeacoffee.com/kami_rzm">Buy Me A Coffee</a></sub>
