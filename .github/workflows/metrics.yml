@@ -27,12 +27,7 @@ jobs:
           plugin_languages_details: lines
 
           plugin_isocalendar: true
-
-          plugin_activity: true
-          plugin_activity_limit: 5
-
-          plugin_achievements: true
-          plugin_achievements_display: compact
+          plugin_reactions: true
 
           config_display: large
 
