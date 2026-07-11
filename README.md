@@ -32,7 +32,12 @@ Developer focused on automation, AI integration, and system engineering.
 - 🌙 Most productive after midnight
 - 💻 The kind of person who writes code for fun
 
-![Phone Fund](https://kami-status-api.sakuna.workers.dev/schedule?url=https://kami-status-api.sakuna.workers.dev/projects/badge/1775150538508)
+
+<p align="center">
+<img src="https://kami-status-api.sakuna.workers.dev/schedule?url=https://kami-status-api.sakuna.workers.dev/projects/badge/1775150538508" alt="Phone Fund" />
+<br>
+<sub>Help me hit 100% → <a href="https://www.buymeacoffee.com/kami_rzm">Buy Me A Coffee</a></sub>
+</p>
 
 ---
 
